@@ -6,7 +6,7 @@ echo ===========================================================================
 echo.
 set /p change=请输入Git更新变动:
 echo.
-cd "C:\\Users\\98113\\Desktop\\Numpy"
+cd "C:\Users\98113\Desktop\Numpy"
 
 git add .
 git commit -m %change%

@@ -18,7 +18,7 @@
 
 例子展示   
 
-```c.NotebookApp.notebook_dir = 'E:\code1\Jupyter'```
+```c.NotebookApp.notebook_dir = r'E:\code1\Jupyter'```
 
 或者直接在文件最后加入这句话也可以
 
